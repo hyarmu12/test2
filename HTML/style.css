@@ -1,0 +1,115 @@
+.logo img{
+    width: 250px;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}
+
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 20px;
+    padding-top: 15px;
+    color: lightgray;
+    font-size: 18px;
+}
+
+
+
+main{
+    clear: both;
+}
+.main-container{
+    width: 95%;
+    margin: 0 auto; 
+    margin-top: 70px;
+}
+h3{
+    margin-left: 10px;
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+}
+p1{
+    font-size: 15px;
+}
+bookstore{
+    width: 900px;
+}
+.bookstore img{
+    width: auto;
+}
+p2{
+    font-size: 15px;
+}
+
+.right{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 400px;
+    margin-bottom: 40px;
+    border: 2px solid red;
+}
+h1{
+    font-size: 15px;
+    border-bottom: 2px solid lightgray;
+}
+p{
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+
+.left{
+    float: left;
+    background-color: white;
+    width: 70%;
+    height: 400px;
+    margin-bottom: 40px;
+    border: 2px solid blue;
+}
+.box2{
+    max-width: 100%;
+    background-color: lightgray;
+    text-align: center;
+}
+.box2 img{
+    width: 160px;
+    margin: 20px 10px -10px 10px;
+}
+.box2 .box_pic2{
+    display: inline-block;
+}
+.box3{
+    max-width: 100%;
+    background-color: lightgray;
+    text-align: center;
+}
+.box3 img{
+    width: 160px;
+    margin: 20px 10px -10px 10px;
+}
+.box3 .box_pic3{
+    display: inline-block;
+}
+
+
+
+
+
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    
+}

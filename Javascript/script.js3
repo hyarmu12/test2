@@ -1,0 +1,20 @@
+function menseki(hankei) {
+    return"面積は"+hankei*hankei*3.14+"c㎡です。";
+}
+document.write(menseki(5));
+document.write("<br>");
+document.write(menseki(7));
+document.write("<br>");
+document.write(menseki(10));
+document.write("<br>");
+document.write("<br>");
+
+function ryokin(otona,kodomo) {
+    return"料金は"+(500*otona+200*kodomo)+"円です。";
+}
+document.write(ryokin(2,4));
+document.write("<br>");
+document.write(ryokin(1,5));
+document.write("<br>");
+document.write(ryokin(3,7));
+document.write("<br>");
