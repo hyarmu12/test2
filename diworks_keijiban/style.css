@@ -1,0 +1,133 @@
+img{
+    width: 300px;
+}
+header{
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+header ul{
+    float: left;
+    line-height: 40px;
+}
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 30px;
+    color: white;
+    font-size: 18px;
+}
+
+main{
+    clear: both;
+}
+.main-container{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+.right{
+    float: left;
+    background-color: white;
+    width: 68%;
+    height: auto;
+    margin-bottom: 40px;
+/*    border: 2px solid blue;*/
+}
+h2{
+    margin-left: 20px;
+    border-left: 7px solid black;
+    border-bottom: 2px solid black;
+}
+p{
+    margin-left: 20px;
+}
+
+h4{ 
+    margin:30px;
+/*
+    margin-top:30px;
+    margin-bottom:20px;
+*/
+    border-left:4px red solid;
+/*
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+*/
+    padding-left:15px;
+    width:500px;
+    font-size:20px;
+}
+    
+form{margin:0 auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+/*    width:900px;*/
+}
+
+form div{
+    padding: 15px;
+}
+
+.text, textarea, .dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+
+h3{
+    font-size: 20px;
+    border-bottom: 2px solid lightgray;
+    margin:30px;
+    margin-top:30px;
+    margin-bottom:20px;
+/*    border-left:4px red solid;*/
+/*    background-color:#f1f1f1;*/
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+/*    width:500px;*/
+}
+
+
+.left{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: auto;
+/*    border: 2px solid red;*/
+}
+h1{
+    font-size: 20px;
+    border-bottom: 2px solid lightgray;
+}
+.left p{
+    font-size: 13px;
+    margin-left: 10px;
+}
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
